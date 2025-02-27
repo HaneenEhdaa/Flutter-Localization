@@ -1,6 +1,6 @@
 # Shopping App
 
-This project is a simple Flutter-based shopping application interface that includes a **Sign-Up Page** and a **Shopping Screen**. The app validates user inputs and provides feedback through dialogs and snack bars. Below are the project details.
+This project is a simple Flutter-based shopping application interface that includes a **Sign-Up Page** and a **Shopping Screen**. The app validates user inputs and provides feedback through dialogs and snack bars. Below are the project details and added localization option.
 
 ## Problem Statement:
 Title: Create signup page to access the shopping screen
@@ -34,3 +34,5 @@ Title: Create signup page to access the shopping screen
 ### Localization Support
 Requirement: Add Arabic Language Support to enhance accessibility, the app now supports Arabic localization. All section titles, product labels, and UI elements are translated dynamically using Easy Localization.
 
+## Demo 
+https://github.com/user-attachments/assets/8890831e-8f7c-4887-9d88-360ebc14c300
